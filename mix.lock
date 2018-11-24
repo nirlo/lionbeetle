@@ -1,0 +1,3 @@
+%{
+  "gibran": {:git, "git://github.com/abitdodgy/gibran.git", "db2f71dfb8c0dec44fe909cbd32799fe591a54fb", []},
+}
